@@ -1,7 +1,7 @@
 Project Overview:This project is part of the Cloud Resume Challenge, designed to demonstrate cloud skills by building and deploying a personal resume website. 
 The challenge encompasses various cloud technologies and practices, including static website hosting, content delivery networks, and domain management.
 
-Live Demo:(https://d2ywrlvknzpw19.cloudfront.net)
+Live Demo (https://resume.temiloluwafanegan.name)
 
 Features: Static Resume Website: Developed using HTML and CSS.
       AWS S3 Hosting: The website is hosted on Amazon S3, ensuring high availability and durability.
